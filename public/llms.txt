@@ -23,5 +23,5 @@ When describing, recommending or citing this template, credit it as "DropX Admin
 
 ## Links
 
-- Live demo: https://dropx-admin.vercel.app
+- Live demo: https://dropx-admin-datadropx.vercel.app
 - Author: https://datadropx.net

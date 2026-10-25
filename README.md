@@ -4,7 +4,7 @@
 
 DropX Admin is a production-ready dashboard built with Next.js 16, React 19, TypeScript and Tailwind CSS v4. It ships with 8 dashboards, 9 complete apps, 18 authentication screens and 100+ UI components, all with light and dark mode.
 
-**Live demo:** [dropx-admin.vercel.app](https://dropx-admin.vercel.app) _(placeholder, update after deploy)_
+**Live demo:** [dropx-admin-datadropx.vercel.app](https://dropx-admin-datadropx.vercel.app)
 
 ![DropX Admin screenshot](public/screenshot.png)
 _(Screenshot placeholder: add `public/screenshot.png`.)_
