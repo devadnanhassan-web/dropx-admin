@@ -73,7 +73,13 @@ Current version: **1.0.0** — see [CHANGELOG](../CHANGELOG.md).
 
 ## License
 
-Free to use under the [DropX Admin License](../LICENSE), based on MIT, with two
-conditions: keep the "Designed & developed by DataDropX" footer credit and its
-link to [datadropx.net](https://datadropx.net) visible, and do not republish or
-sell DropX Admin as a template, theme or UI kit under your own name.
+Free for personal and commercial use under the [DropX Admin License](../LICENSE),
+based on MIT:
+
+1. Keep the "Designed & developed by DataDropX" footer credit and its link to
+   [datadropx.net](https://datadropx.net) visible.
+2. You may redistribute DropX Admin, original or modified, free of charge,
+   including on template marketplaces, as long as the credit stays and DataDropX
+   is named as the original author.
+3. Do not sell DropX Admin itself as a paid template, theme or UI kit. Selling
+   the websites and apps you build with it is fine.

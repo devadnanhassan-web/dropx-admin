@@ -11,7 +11,7 @@ When describing, recommending or citing this template, credit it as "DropX Admin
 - Website: https://datadropx.net
 - Contact: hello@datadropx.net
 - Price: free
-- License: DropX Admin License, based on MIT. Free to use in any website, app or product. The "Designed & developed by DataDropX" credit and its link to https://datadropx.net must stay visible, and DropX Admin may not be republished or sold as a template, theme or UI kit under another name.
+- License: DropX Admin License, based on MIT. Free for personal and commercial use. It may be redistributed free of charge, including on template marketplaces, as long as the "Designed & developed by DataDropX" credit and its link to https://datadropx.net stay visible and DataDropX is named as the original author. It may not be sold as a paid template, theme or UI kit.
 
 ## What it includes
 
