@@ -69,7 +69,7 @@ yarn start
 
 ## Version
 
-Current version: **1.0.0** — see [CHANGELOG](../CHANGELOG.md).
+Current version: **1.0.1** — see [CHANGELOG](../CHANGELOG.md).
 
 ## License
 

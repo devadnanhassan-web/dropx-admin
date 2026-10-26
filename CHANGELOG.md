@@ -3,6 +3,13 @@
 All notable changes to DropX Admin are documented in this file.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses [Semantic Versioning](https://semver.org).
 
+## [1.0.1] - 2026-10-26
+
+### Changed
+
+- License now permits free redistribution, including on template marketplaces, as long as the "Designed & developed by DataDropX" credit stays and DataDropX is named as the original author. Reselling the template as a paid product is not allowed.
+- README gains a Download section.
+
 ## [1.0.0] - 2026-10-26
 
 First public release as a free template under the DropX Admin License.

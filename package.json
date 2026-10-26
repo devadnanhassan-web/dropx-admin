@@ -1,6 +1,6 @@
 {
   "name": "dropx-admin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Free admin dashboard template by DataDropX, built with Next.js 16, React 19, TypeScript and Tailwind CSS v4.",
   "keywords": [
     "admin",
