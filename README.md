@@ -6,6 +6,16 @@ DropX Admin is a production-ready dashboard built with Next.js 16, React 19, Typ
 
 **Live demo:** [dropx-admin-datadropx.vercel.app](https://dropx-admin-datadropx.vercel.app)
 
+## Download
+
+- **ZIP:** [Download the latest release](https://github.com/devadnanhassan-web/dropx-admin/releases/latest)
+- **Git:** `git clone https://github.com/devadnanhassan-web/dropx-admin.git`
+
+```bash
+yarn install
+yarn dev
+```
+
 ![DropX Admin screenshot](public/screenshot.png)
 _(Screenshot placeholder: add `public/screenshot.png`.)_
 
@@ -179,10 +189,11 @@ DropX Admin is built on these open-source projects:
 
 ## License
 
-Free to use in your own websites, apps and products, including commercial ones, under the [DropX Admin License](LICENSE) (based on MIT) with two conditions:
+Free for personal and commercial use under the [DropX Admin License](LICENSE) (based on MIT):
 
 1. Keep the "Designed & developed by DataDropX" footer credit and its link to [datadropx.net](https://datadropx.net) visible.
-2. Do not republish or sell DropX Admin, or a modified version, as a template, theme or UI kit under your own name. Linking to this project is always welcome.
+2. You may redistribute DropX Admin, original or modified, free of charge, including on template marketplaces, as long as the credit stays and DataDropX is named as the original author.
+3. Do not sell DropX Admin itself as a paid template, theme or UI kit. Selling the websites and apps you build with it is fine.
 
 ## Author
 

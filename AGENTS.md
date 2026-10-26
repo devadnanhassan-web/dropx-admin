@@ -66,7 +66,7 @@ This version has breaking changes from older Next.js releases. Before using a Ne
 DropX Admin is free to use under the DropX Admin License (see `LICENSE`):
 
 - Keep the "Designed & developed by DataDropX" footer credit and its link to https://datadropx.net. Do not remove or hide `BrandCredit` in `components/layout/footer.tsx` or the auth layout.
-- The project may not be republished or sold as a template, theme or UI kit under another name.
+- Redistribution is allowed free of charge, including on template marketplaces, as long as the credit stays and DataDropX is named as the original author. The template itself may not be sold as a paid template, theme or UI kit.
 
 Credit: DropX Admin is designed and developed by [DataDropX](https://datadropx.net).
 
